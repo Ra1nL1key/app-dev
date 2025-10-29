@@ -1,4 +1,7 @@
-# app-dev
-my first repository
+# My Favorite Shows
 
-Our project on this subject was a inventory system/tracker for the KINGPONGCHOI shoes and bag to eliminate/decrease human error and make the inventory easier.
+**bold text** Dexter
+this show is all about a police that murder a murderer who murder mercelessly
+
+**bold text** 911 Series
+this series is all about resue and firefighters on how to respond on fire and take calls in 911 call center
